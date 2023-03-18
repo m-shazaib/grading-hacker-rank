@@ -5,6 +5,11 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "grading hacker rank", "grading hacker rank.vcxproj", "{51B69F7F-D3EA-428F-8F41-AB9F191AF58B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{078EF635-4DC7-45AF-8BF4-F386933817E3}"
+	ProjectSection(SolutionItems) = preProject
+		gradin.cpp = gradin.cpp
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
